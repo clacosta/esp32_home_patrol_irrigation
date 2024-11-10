@@ -1,5 +1,5 @@
 // This code is licensed under MIT License.
-// Copyright (c) 2023 Claudio Costa (claudiocosta@email.com)
+// Copyright (c) 2024 Claudio Costa (clacosta@gmail.com.com)
 // 
 // Version: 0.1
 // 
