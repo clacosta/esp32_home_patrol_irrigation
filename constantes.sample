@@ -1,0 +1,18 @@
+#ifndef CONSTANTES_H
+#define CONSTANTES_H
+
+// Wifi Configs
+#define WIFI_SSID "{Put your Wifi SSID here}"
+#define WIFI_PASSWORD "{Put your Wifi Password here}"
+
+// Firebase API Key
+#define API_KEY "{Put your Firebase API Key here}"
+
+// Firebase Realtime Database URL
+#define DATABASE_URL "{Put your Firebase Realtime Database URL here}"
+
+// Firebase Auth Configs
+#define USER_EMAIL "{Put your Firebase Auth User Email here}"
+#define USER_PASSWORD "{Put your Firebase Auth User Password here}"
+
+#endif
